@@ -4,4 +4,4 @@ var defrangIPaddr = function (address) {
 };
 
 
-console.log(defrangIPaddr(12.256.554.321))
+console.log(defrangIPaddr('12.256.554.321'))
